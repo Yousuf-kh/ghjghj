@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://external-preview.redd.it/HUmkSkhpxEgD4rXuuL13Ll8EBNL7rAFgKlvbsBzLMv8.png?auto=webp&s=90d1557eff8e56d198f1ae20e63c149a85a30294);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: silver;
+   
+}
+img {
+    width: 30%;
+    border-radius: 10 ;
+}
+
